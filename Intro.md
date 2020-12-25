@@ -11,3 +11,10 @@ React 함수형 컴포넌트를 연습합니다.
 [ Docs ] 변경 사항만 문서화, Storybook
 [ Refactor ] 기능을 추가하지 않는 코드 변경
 [ CI ] 지속적인 통합/배달 설정의 변경 사항 (머지 등)
+
+### SetUp
+
+-   styled-components
+-   axios
+-   sass
+-   numeral
