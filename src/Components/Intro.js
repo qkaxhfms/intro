@@ -1,11 +1,11 @@
 import React from "react";
-import Immortal from "../Functions/Immortal";
+import InputSample from "../Functions/InputSample";
 
 function Intro() {
     return (
         <>
             <h2>Intro</h2>
-            <Immortal />
+            <InputSample />
         </>
     );
 }
