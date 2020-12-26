@@ -1,11 +1,11 @@
 import React from "react";
-import InputSample from "../Functions/InputSample";
+import UserList from "../Functions/UserList";
 
 function Intro() {
     return (
         <>
             <h2>Intro</h2>
-            <InputSample />
+            <UserList />
         </>
     );
 }
